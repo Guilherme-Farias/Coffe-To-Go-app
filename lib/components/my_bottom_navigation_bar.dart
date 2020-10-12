@@ -37,7 +37,7 @@ class _MyBottomNavigationBarState extends State<MyBottomNavigationBar> {
         ),
         BottomNavigationBarItem(
           icon: FaIcon(FontAwesomeIcons.userAlt),
-          label: 'Order',
+          label: 'Profile',
         ),
       ],
       currentIndex: _selectedIndex,
