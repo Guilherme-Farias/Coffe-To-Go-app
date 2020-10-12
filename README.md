@@ -1,4 +1,4 @@
-# coffetogo
+# Coffe To Go app
 
 A new Flutter project.
 
