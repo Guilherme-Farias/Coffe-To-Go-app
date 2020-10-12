@@ -1,6 +1,10 @@
 # Coffe To Go app
 
-A new Flutter project.
+A simple application for learning to create more complex screen
+
+UI credits: [Coffee To Go app design](https://dribbble.com/shots/7969387-Coffee-To-Go-app-design)
+
+<img src='assets/screenshot_home_page.png' height=500>
 
 ## Getting Started
 
