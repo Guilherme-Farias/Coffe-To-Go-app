@@ -1,4 +1,4 @@
-# Coffe To Go app
+# Coffee To Go app
 
 A simple application for learning to create more complex screen
 
